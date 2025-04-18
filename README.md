@@ -34,7 +34,7 @@ pip install pyaudio
 
 🚀 How to Run
 Clone the repository:
-git clone https://github.com/ChAtulKumarPrusty/voice-translator.git
+git clone https://github.com/ChAtulKumarPrusty/VoiceTranslator.git
 cd voice-translator
 Run the Python script:
 python your_script_name.py
